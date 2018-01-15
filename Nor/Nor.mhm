@@ -1,0 +1,94 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags Nor
+camera 1.5 359.0 0.0279235438684 0.908368873724 0.154127084691 4.625
+modifier breast/breast-trans-down|up 0.238000
+modifier cheek/r-cheek-volume-decr|incr -0.238000
+modifier measure/measure-waist-circ-decr|incr 0.048000
+modifier eyes/l-eye-eyefold-angle-down|up 0.074000
+modifier macrodetails-universal/Muscle 0.707000
+modifier mouth/mouth-scale-horiz-decr|incr 0.688000
+modifier macrodetails/African 0.000000
+modifier cheek/r-cheek-trans-down|up 0.442000
+modifier macrodetails-proportions/BodyProportions 0.633000
+modifier chin/chin-width-decr|incr -0.496000
+modifier torso/torso-scale-horiz-decr|incr -0.088000
+modifier breast/nipple-point-decr|incr -0.142000
+modifier mouth/mouth-lowerlip-ext-down|up -0.062000
+modifier macrodetails/Gender 0.000000
+modifier torso/torso-scale-vert-decr|incr -0.034000
+modifier forehead/forehead-trans-backward|forward -0.198000
+modifier pelvis/bulge-decr|incr -0.646000
+modifier macrodetails-height/Height 0.585000
+modifier breast/BreastSize 0.741000
+modifier mouth/mouth-lowerlip-middle-down|up -0.034000
+modifier head/head-invertedtriangular 0.952000
+modifier chin/chin-cleft-decr|incr 0.102000
+modifier nose/nose-septumangle-decr|incr 0.456000
+modifier torso/torso-muscle-dorsi-decr|incr 0.210000
+modifier cheek/r-cheek-bones-decr|incr -0.414000
+modifier torso/torso-muscle-pectoral-decr|incr -0.088000
+modifier forehead/forehead-scale-vert-decr|incr -0.088000
+modifier mouth/mouth-trans-down|up -0.062000
+modifier macrodetails/Age 0.537000
+modifier mouth/mouth-angles-down|up 0.088000
+modifier neck/neck-double-decr|incr 0.142000
+modifier breast/BreastFirmness 0.714000
+modifier stomach/stomach-navel-down|up -0.578000
+modifier neck/neck-back-scale-depth-decr|incr -0.184000
+modifier macrodetails/Asian 0.000000
+modifier cheek/l-cheek-trans-down|up 0.306000
+modifier breast/breast-point-decr|incr 0.034000
+modifier chin/chin-prominent-decr|incr 0.062000
+modifier nose/nose-scale-depth-decr|incr -0.088000
+modifier forehead/forehead-temple-decr|incr -0.252000
+modifier measure/measure-shoulder-dist-decr|incr -0.238000
+modifier measure/measure-underbust-circ-decr|incr -0.020000
+modifier mouth/mouth-upperlip-middle-down|up -0.238000
+modifier head/head-fat-decr|incr -0.592000
+modifier cheek/l-cheek-bones-decr|incr -0.402000
+modifier head/head-age-decr|incr 0.048000
+modifier macrodetails/Caucasian 1.000000
+modifier nose/nose-curve-concave|convex -0.116000
+modifier head/head-scale-horiz-decr|incr -0.062000
+modifier cheek/l-cheek-volume-decr|incr -0.292000
+modifier torso/torso-scale-depth-decr|incr 0.074000
+modifier stomach/stomach-navel-in|out -0.156000
+modifier measure/measure-hips-circ-decr|incr 0.102000
+modifier breast/nipple-size-decr|incr -0.102000
+modifier chin/chin-prognathism-decr|incr 0.006000
+modifier nose/nose-scale-vert-decr|incr 0.660000
+modifier mouth/mouth-lowerlip-width-decr|incr -0.088000
+modifier buttocks/buttocks-volume-decr|incr 0.620000
+modifier nose/nose-compression-compress|uncompress -0.292000
+modifier mouth/mouth-cupidsbow-decr|incr 0.402000
+modifier measure/measure-bust-circ-decr|incr 0.034000
+modifier breast/breast-dist-decr|incr -0.048000
+modifier mouth/mouth-upperlip-height-decr|incr 0.278000
+modifier nose/nose-point-down|up 0.006000
+modifier mouth/mouth-upperlip-width-decr|incr -0.156000
+modifier forehead/forehead-nubian-decr|incr 0.034000
+modifier chin/chin-bones-decr|incr 0.088000
+modifier macrodetails-universal/Weight 0.313000
+modifier breast/breast-volume-vert-down|up -0.824000
+modifier hip/hip-trans-backward|forward -0.088000
+modifier measure/measure-frontchest-dist-decr|incr 0.048000
+modifier mouth/mouth-upperlip-ext-down|up -0.836000
+modifier pelvis/pelvis-tone-decr|incr 0.170000
+modifier nose/nose-greek-decr|incr -0.156000
+modifier mouth/mouth-lowerlip-height-decr|incr 0.402000
+modifier head/head-trans-down|up -0.062000
+modifier mouth/mouth-cupidsbow-width-decr|incr 0.074000
+modifier mouth/mouth-lowerlip-volume-decr|incr 0.062000
+teeth Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d
+proxy female_generic 84b1a384-1af0-4126-9030-222edb78b318
+hair Braid01 eead6f99-d6c6-4f6b-b6c2-210459d7a62e
+eyelashes eyelashes02 04a0718e-aaa4-4480-a013-ad51703bef6b
+skeleton game_engine.mhskel
+eyebrows eyebrow002 a4e73c2f-3a12-47c8-b706-31a68cac6907
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothesHideFaces True
+skinMaterial skins/young_caucasian_female/young_caucasian_female.mhmat
+material Braid01 eead6f99-d6c6-4f6b-b6c2-210459d7a62e braid01.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/ice.mhmat
+subdivide False
